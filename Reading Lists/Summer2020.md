@@ -6,9 +6,10 @@
 - Complexity-theoretic Foundations for Quantum Supremacy Experiments by Aaronson and Chen
 - Quantum Computing, Postselection, and Probabilistic Polynomial-Time by Aaronson.
 - NAP Semidefinite Programming Hierarchy paper.
-- Complexity Theory portion of Kiteav, Shen, Vyalyi
+- Quantum Complexity lectures by Aaronson.
 - Group Representations for Quantum Theory by Hayashi
 - Theory of Quantum Information by Watrou
+- Watrous video lectures on Advanced Quantumm Information course.
 
 # Books to read/skim/reference over Summer 2020 (Math)
 
